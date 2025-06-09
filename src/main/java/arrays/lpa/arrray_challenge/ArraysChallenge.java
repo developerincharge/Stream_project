@@ -1,4 +1,4 @@
-package arrays.lpa;
+package arrays.lpa.arrray_challenge;
 
 import java.util.Arrays;
 import java.util.Random;
